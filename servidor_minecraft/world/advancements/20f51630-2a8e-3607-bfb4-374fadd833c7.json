@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-20 00:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-20 00:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-20 00:20:39 +0000"
@@ -53,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-08-20 00:26:31 +0000"
@@ -62,6 +80,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2025-08-20 00:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-20 00:31:38 +0000"
     },
     "done": true
   },
@@ -125,9 +149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-20 00:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
     },
     "done": true
   },
@@ -161,9 +197,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-19 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-20 00:28:20 +0000"
     },
     "done": true
   },
@@ -188,6 +236,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 00:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-20 00:31:38 +0000"
     },
     "done": true
   },
@@ -230,6 +284,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 23:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-20 00:28:20 +0000"
     },
     "done": true
   },
@@ -305,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-20 00:29:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-08-20 00:09:35 +0000"
@@ -353,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-08-20 00:03:46 +0000"
@@ -364,7 +436,9 @@
       "minecraft:skeleton": "2025-08-19 23:59:21 +0000",
       "minecraft:spider": "2025-08-20 00:03:12 +0000",
       "minecraft:zombie": "2025-08-19 23:58:10 +0000",
-      "minecraft:drowned": "2025-08-19 23:57:56 +0000"
+      "minecraft:drowned": "2025-08-19 23:57:56 +0000",
+      "minecraft:husk": "2025-08-20 00:30:58 +0000",
+      "minecraft:slime": "2025-08-20 00:31:57 +0000"
     },
     "done": false
   },
@@ -464,6 +538,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-20 00:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-20 00:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-08-20 00:03:14 +0000"
@@ -521,6 +607,18 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-19 23:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
     },
     "done": true
   },
@@ -611,6 +709,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-08-20 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
     },
     "done": true
   },
@@ -758,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-20 00:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-20 00:20:39 +0000"
@@ -785,6 +895,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 23:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-20 00:32:00 +0000"
     },
     "done": true
   },
@@ -938,9 +1054,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-20 00:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-19 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
     },
     "done": true
   },
@@ -1004,9 +1132,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-20 00:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-19 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-08-20 00:28:20 +0000"
     },
     "done": true
   },
@@ -1043,6 +1183,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-20 00:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-20 00:32:00 +0000"
     },
     "done": true
   },
@@ -1115,8 +1261,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-19 23:50:40 +0000",
+      "minecraft:forest": "2025-08-20 00:41:02 +0000",
       "minecraft:taiga": "2025-08-19 23:47:45 +0000",
+      "minecraft:deep_dark": "2025-08-20 00:44:45 +0000",
       "minecraft:river": "2025-08-20 00:01:55 +0000",
+      "minecraft:meadow": "2025-08-20 00:41:04 +0000",
       "minecraft:lush_caves": "2025-08-19 23:59:13 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-20 00:02:09 +0000"
     },
@@ -1131,6 +1280,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-19 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
     },
     "done": true
   },
@@ -1190,10 +1345,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-20 00:45:28 +0000",
       "spider_eye": "2025-08-20 00:04:42 +0000",
+      "bread": "2025-08-20 00:42:55 +0000",
       "cooked_rabbit": "2025-08-20 00:22:48 +0000",
       "rotten_flesh": "2025-08-19 23:58:13 +0000",
       "sweet_berries": "2025-08-19 23:50:36 +0000",
+      "baked_potato": "2025-08-20 00:42:24 +0000",
       "cooked_salmon": "2025-08-19 23:58:47 +0000"
     },
     "done": false
@@ -1234,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-20 00:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-19 23:56:11 +0000"
@@ -1243,6 +1407,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-20 00:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-20 00:29:41 +0000"
     },
     "done": true
   },
