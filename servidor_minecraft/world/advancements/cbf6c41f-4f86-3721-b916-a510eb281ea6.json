@@ -10,7 +10,8 @@
       "minecraft:old_growth_pine_taiga": "2025-08-19 20:01:05 +0000",
       "minecraft:taiga": "2025-08-19 20:00:57 +0000",
       "minecraft:river": "2025-08-20 00:12:37 +0000",
-      "minecraft:lush_caves": "2025-08-19 23:44:35 +0000"
+      "minecraft:lush_caves": "2025-08-19 23:44:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-20 00:25:44 +0000"
     },
     "done": false
   },
@@ -290,6 +291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-20 00:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-19 23:34:43 +0000"
@@ -396,6 +403,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-19 23:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-20 00:17:36 +0000"
     },
     "done": true
   },
@@ -519,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-20 00:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-20 00:02:07 +0000"
@@ -558,6 +577,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_iron_ingot": "2025-08-19 23:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-20 00:23:03 +0000"
     },
     "done": true
   },
@@ -921,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-20 00:17:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-20 00:07:10 +0000"
@@ -960,6 +991,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-19 23:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-20 00:18:47 +0000"
     },
     "done": true
   },
@@ -1098,7 +1135,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "glow_berries": "2025-08-19 23:44:54 +0000",
-      "sweet_berries": "2025-08-19 23:56:29 +0000"
+      "sweet_berries": "2025-08-19 23:56:29 +0000",
+      "cooked_salmon": "2025-08-20 00:27:14 +0000"
     },
     "done": false
   },
@@ -1171,6 +1209,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-19 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-20 00:18:47 +0000"
     },
     "done": true
   },
