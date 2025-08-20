@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-19 20:01:05 +0000",
       "minecraft:taiga": "2025-08-19 20:00:57 +0000",
+      "minecraft:river": "2025-08-20 00:12:37 +0000",
       "minecraft:lush_caves": "2025-08-19 23:44:35 +0000"
     },
     "done": false
@@ -34,6 +35,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-19 23:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-20 00:08:11 +0000"
     },
     "done": true
   },
@@ -238,6 +245,12 @@
   "minecraft:recipes/building_blocks/tuff_stairs": {
     "criteria": {
       "has_tuff": "2025-08-19 23:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-20 00:10:56 +0000"
     },
     "done": true
   },
@@ -479,6 +492,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-19 23:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-20 00:10:56 +0000"
     },
     "done": true
   },
@@ -776,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-20 00:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-19 23:38:39 +0000"
@@ -1043,6 +1068,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-20 00:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-20 00:10:56 +0000"
     },
     "done": true
   },
