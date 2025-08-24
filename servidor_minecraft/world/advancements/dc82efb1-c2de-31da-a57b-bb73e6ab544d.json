@@ -559,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-22 00:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-22 00:07:25 +0000"
@@ -706,6 +712,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-22 00:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-22 00:37:09 +0000"
     },
     "done": true
   },
@@ -910,7 +922,8 @@
     "criteria": {
       "apple": "2025-08-22 00:29:57 +0000",
       "bread": "2025-08-21 23:55:45 +0000",
-      "sweet_berries": "2025-08-22 00:09:07 +0000"
+      "sweet_berries": "2025-08-22 00:09:07 +0000",
+      "porkchop": "2025-08-22 00:35:04 +0000"
     },
     "done": false
   },
@@ -974,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-22 00:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-22 00:18:49 +0000"
@@ -995,6 +1014,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-08-21 23:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-22 00:34:37 +0000"
     },
     "done": true
   },
