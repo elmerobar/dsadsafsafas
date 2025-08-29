@@ -82,6 +82,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-25 00:48:16 +0000",
       "minecraft:skeleton": "2025-08-22 00:26:01 +0000",
+      "minecraft:phantom": "2025-08-29 01:37:35 +0000",
       "minecraft:spider": "2025-08-22 00:06:33 +0000",
       "minecraft:zombie": "2025-08-21 23:48:53 +0000",
       "minecraft:creeper": "2025-08-29 00:39:10 +0000"
@@ -2422,6 +2423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-29 01:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-29 00:53:54 +0000"
@@ -2584,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-29 01:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-29 00:53:54 +0000"
@@ -2599,6 +2612,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-29 01:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-29 01:41:48 +0000"
     },
     "done": true
   },
