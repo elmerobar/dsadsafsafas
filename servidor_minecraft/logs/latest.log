@@ -1,5 +1,5 @@
-[23:15:12] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[23:15:12] [main/INFO]: Loading 43 mods:
+[00:02:09] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[00:02:09] [main/INFO]: Loading 43 mods:
 	- fabric-api 0.132.0+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -51,196 +51,486 @@
 	   \-- fabric-permissions-api-v0 0.4.1
 	- java 21
 	- minecraft 1.21.8
-[23:15:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/dsadsafsafas/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:15:12] [main/INFO]: Compatibility level set to JAVA_21
-[23:15:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[23:15:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:15:24] [main/INFO]: Loaded 1407 recipes
-[23:15:24] [main/INFO]: Loaded 1573 advancements
-[23:15:24] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.604 ms
-[23:15:24] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:15:24] [Server thread/INFO]: Loading properties
-[23:15:24] [Server thread/INFO]: Default game type: SURVIVAL
-[23:15:24] [Server thread/INFO]: Generating keypair
-[23:15:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:15:24] [Server thread/INFO]: Using epoll channel type
-[23:15:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:15:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:15:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:15:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:15:25] [Server thread/INFO]: Preparing level "world"
-[23:15:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:33] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[23:15:33] [Server thread/INFO]: Time elapsed: 8123 ms
-[23:15:33] [Server thread/INFO]: Done (8.501s)! For help, type "help"
-[23:16:16] [Server thread/INFO]: sayis745[/127.87.120.187:39951] logged in with entity id 7 at (-148.0586499348893, 63.0, -338.0189145053142)
-[23:16:16] [Server thread/INFO]: sayis745 joined the game
-[23:16:24] [Server thread/INFO]: ZyberXMC[/127.100.7.92:56511] logged in with entity id 320 at (-32.5298164529596, 63.5625, -388.6014599922623)
-[23:16:24] [Server thread/INFO]: ZyberXMC joined the game
-[23:16:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> f
-[23:16:29] [Server thread/INFO]: [Not Secure] <sayis745> hi nigga
-[23:16:32] [Server thread/INFO]: [Not Secure] <ZyberXMC> hi sis
-[23:17:26] [Server thread/INFO]: My_HsSs[/127.58.65.231:50173] logged in with entity id 952 at (659.2849336438363, 75.0, 401.0362453540814)
-[23:17:26] [Server thread/INFO]: My_HsSs joined the game
-[23:17:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> omg
-[23:17:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:17:44] [Server thread/INFO]: im epstein ghost<--[HERE]
-[23:17:47] [Server thread/INFO]: [Not Secure] <My_HsSs> hi niggas
-[23:17:52] [Server thread/INFO]: [Not Secure] <sayis745> hi unc
-[23:17:54] [Server thread/INFO]: [Not Secure] <ZyberXMC> good morning artur
-[23:18:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:18:23] [Server thread/INFO]: :v<--[HERE]
-[23:18:31] [Server thread/INFO]: [Not Secure] [Server] :v
-[23:18:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> stfu
-[23:18:50] [Server thread/INFO]: [Not Secure] [Server] wiggerton
-[23:19:59] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames mi mouse tiene drift xff
-[23:20:04] [Server thread/INFO]: [Not Secure] <sayis745> XDD
-[23:20:07] [Server thread/INFO]: [Not Secure] <sayis745> tf
-[23:20:10] [Server thread/INFO]: [Not Secure] <sayis745> limpialo
-[23:20:17] [Server thread/INFO]: [Not Secure] <ZyberXMC> si w a de estar bien cochino
-[23:20:27] [Server thread/INFO]: [Not Secure] <ZyberXMC> la otra vez tenia una bolota de polvo
-[23:20:36] [Server thread/INFO]: [Not Secure] <ZyberXMC> con pelo de los huevos
-[23:20:36] [Server thread/INFO]: [Not Secure] <sayis745> DAMN
-[23:22:02] [Server thread/INFO]: [Not Secure] [Server] apoco existe drift en los mouse
-[23:22:12] [Server thread/INFO]: [Not Secure] <sayis745> idk
-[23:22:15] [Server thread/INFO]: [Not Secure] <ZyberXMC> es el sensor, cuando lo quiero subir no sube
-[23:22:19] [Server thread/INFO]: [Not Secure] [Server] anyways im coming
-[23:22:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> y el raton o el cursor se queda temblando
-[23:22:30] [Server thread/INFO]: [Not Secure] [Server] medic yaaaa
-[23:22:35] [Server thread/INFO]: [Not Secure] [Server] good times
-[23:23:01] [Server thread/INFO]: [Not Secure] [Server] parkinson
-[23:23:05] [Server thread/INFO]: [Not Secure] <ZyberXMC> si
-[23:23:39] [Server thread/INFO]: Cacharro7[/127.176.38.27:59171] logged in with entity id 5103 at (-101.25070703161755, 55.0, -372.2926065204941)
-[23:23:39] [Server thread/INFO]: Cacharro7 joined the game
-[23:23:49] [Server thread/INFO]: [Not Secure] <Cacharro7> zingas
-[23:24:01] [Server thread/INFO]: [Not Secure] <sayis745> hi
-[23:24:10] [Server thread/INFO]: ZyberXMC lost connection: Timed out
-[23:24:10] [Server thread/INFO]: ZyberXMC left the game
-[23:24:10] [Server thread/WARN]: handleDisconnection() called twice
-[23:24:14] [Server thread/INFO]: [Not Secure] <sayis745> xf
-[23:24:15] [Server thread/INFO]: [Not Secure] <Cacharro7> :,v
-[23:24:17] [Server thread/INFO]: [Not Secure] <My_HsSs> xfff
-[23:27:29] [Server thread/INFO]: ZyberXMC[/127.100.7.92:42839] logged in with entity id 7264 at (-22.797917935903598, 63.0, -364.1915887455713)
-[23:27:29] [Server thread/INFO]: ZyberXMC joined the game
-[23:27:34] [Server thread/INFO]: [Not Secure] <Cacharro7> orthord
-[23:27:45] [Server thread/INFO]: [Not Secure] <ZyberXMC> si ven que me salgo derrepente es porque tengo el internet medio jodido
-[23:27:55] [Server thread/INFO]: [Not Secure] <sayis745> :´v
-[23:28:15] [Server thread/INFO]: [Not Secure] <ZyberXMC> hay momentos donde si uso el telefono fijo para llamar se va el internet xffffffffffffffff
-[23:28:24] [Server thread/INFO]: [Not Secure] <sayis745> XD
-[23:28:25] [Server thread/INFO]: [Not Secure] <Cacharro7> tf
-[23:29:23] [Server thread/INFO]: [Not Secure] <ZyberXMC> MR WHITE
-[23:29:26] [Server thread/INFO]: [Not Secure] <ZyberXMC> GIVE ME METH
-[23:29:32] [Server thread/INFO]: [Not Secure] <Cacharro7> uh oh
-[23:30:00] [Server thread/INFO]: ZyberXMC lost connection: Timed out
-[23:30:00] [Server thread/INFO]: ZyberXMC left the game
-[23:30:03] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
-[23:32:51] [Server thread/INFO]: ZyberXMC[/127.100.7.92:34189] logged in with entity id 9582 at (-114.69920082122222, 63.0, -368.6826573070744)
-[23:32:51] [Server thread/INFO]: ZyberXMC joined the game
-[23:32:55] [Server thread/INFO]: [Not Secure] <ZyberXMC> ts pmo
-[23:32:57] [Server thread/INFO]: [Not Secure] <Cacharro7> mr white
-[23:33:04] [Server thread/INFO]: ZyberXMC lost connection: Disconnected
-[23:33:04] [Server thread/INFO]: ZyberXMC left the game
-[23:33:06] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
-[23:38:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=48, z=214}
-[23:38:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=49, z=214}
-[23:38:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=48, z=214}
-[23:38:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=49, z=214}
-[23:38:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=50, z=214}
-[23:38:20] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=50, z=214}
-[23:38:26] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=48, z=214}
-[23:38:26] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=49, z=214}
-[23:38:26] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=50, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=48, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=48, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=49, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=48, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=49, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=49, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=50, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=50, z=214}
-[23:38:27] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=50, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=48, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=48, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=49, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=48, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=49, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=49, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=50, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=50, z=214}
-[23:38:46] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=50, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=48, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=48, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=49, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=48, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=49, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=49, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=311, y=50, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=310, y=50, z=214}
-[23:38:48] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=309, y=50, z=214}
-[23:39:06] [Server thread/INFO]: ZyberXMC[/127.100.7.92:48151] logged in with entity id 13736 at (-115.91909646496286, 63.0, -362.75214788639926)
-[23:39:06] [Server thread/INFO]: ZyberXMC joined the game
-[23:39:11] [Server thread/INFO]: [Not Secure] <ZyberXMC> anyways
-[23:39:24] [Server thread/INFO]: [Not Secure] <Cacharro7> orthord
-[23:42:14] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
-[23:42:23] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
-[23:42:23] [Server thread/INFO]: [Not Secure] <ZyberXMC> donde esta la mina esa xf
-[23:42:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> o nvm
-[23:42:32] [Server thread/INFO]: [Not Secure] <Cacharro7> cual w
-[23:42:36] [Server thread/INFO]: [Not Secure] <ZyberXMC> esta bien señalado
-[23:43:07] [Server thread/INFO]: My_HsSs has made the advancement [Hot Stuff]
-[23:43:10] [Server thread/INFO]: [Not Secure] <ZyberXMC> oh no
-[23:43:15] [Server thread/INFO]: [Not Secure] <Cacharro7> hot togheter
-[23:43:20] [Server thread/INFO]: [Not Secure] <ZyberXMC> he gona speedrun now
-[23:43:43] [Server thread/INFO]: My_HsSs has made the advancement [Ice Bucket Challenge]
-[23:43:46] [Server thread/INFO]: [Not Secure] <ZyberXMC> see
-[23:44:25] [Server thread/INFO]: [Not Secure] <My_HsSs> vamos al nether hoes
-[23:44:32] [Server thread/INFO]: [Not Secure] <Cacharro7> john tursak mob
-[23:44:55] [Server thread/INFO]: [Not Secure] <Cacharro7> UHHH
-[23:45:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> wer tf are u
-[23:45:18] [Server thread/INFO]: [Not Secure] <Cacharro7> si w nosotros tenemos casita aqui
-[23:46:59] [Server thread/INFO]: [Not Secure] <Cacharro7> anyways time to mine
-[23:47:04] [Server thread/INFO]: [Not Secure] <Cacharro7> and craft
-[23:47:10] [Server thread/INFO]: [Not Secure] <Cacharro7> y buscar ovejas
-[23:47:16] [Server thread/INFO]: [Not Secure] <My_HsSs> me gusta ese nombre
-[23:47:19] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
-[23:48:32] [Server thread/INFO]: [Not Secure] <sayis745> fosa de animles comunitaria
-[23:48:51] [Server thread/INFO]: [Not Secure] <Cacharro7> thenks orthor
-[23:49:07] [Server thread/INFO]: ZyberXMC lost connection: Timed out
-[23:49:07] [Server thread/INFO]: ZyberXMC left the game
-[23:49:09] [Server thread/INFO]: [Not Secure] <Cacharro7> en que pinche cueva estas
-[23:49:13] [Server thread/INFO]: [Not Secure] <Cacharro7> justo se fue
-[23:49:14] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
-[23:49:16] [Server thread/INFO]: [Not Secure] <sayis745> XD
-[23:49:34] [Server thread/INFO]: [Not Secure] <sayis745> fue a la que fuimos
-[23:49:41] [Server thread/INFO]: [Not Secure] <Cacharro7> aigh
-[23:49:45] [Server thread/INFO]: [Not Secure] <sayis745> donde estaba la estructura
-[23:52:01] [Server thread/INFO]: ZyberXMC[/127.100.7.92:58883] logged in with entity id 22667 at (-37.83688943606054, 74.0, -384.63459530056633)
-[23:52:01] [Server thread/INFO]: ZyberXMC joined the game
-[23:52:04] [Server thread/INFO]: [Not Secure] <Cacharro7> wigga
-[23:52:12] [Server thread/INFO]: ZyberXMC lost connection: Disconnected
-[23:52:12] [Server thread/INFO]: ZyberXMC left the game
-[23:52:14] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
-[23:52:15] [Server thread/INFO]: [Not Secure] <sayis745> xf
-[23:52:49] [Server thread/INFO]: ZyberXMC[/127.100.7.92:39093] logged in with entity id 23211 at (-31.65279592641048, 75.02442408821369, -381.4212529129971)
-[23:52:49] [Server thread/INFO]: ZyberXMC joined the game
-[23:53:20] [Server thread/INFO]: [Not Secure] <ZyberXMC> fuckin nigers
-[23:53:26] [Server thread/INFO]: Villager class_1646['Shepherd'/213, l='ServerLevel[New World]', x=14.30, y=63.00, z=-328.30] died, message: 'Shepherd was slain by Zombie'
-[23:53:31] [Server thread/INFO]: Villager class_1646['Armorer'/214, l='ServerLevel[New World]', x=14.30, y=63.00, z=-328.70] died, message: 'Armorer was slain by Zombie'
-[23:55:25] [Server thread/WARN]: ZyberXMC moved too quickly! -7.418899678227827,-0.2468000194787976,-6.8469105995104655
-[23:55:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
+[00:02:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/dsadsafsafas/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:02:09] [main/INFO]: Compatibility level set to JAVA_21
+[00:02:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:02:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:02:21] [main/INFO]: Loaded 1407 recipes
+[00:02:21] [main/INFO]: Loaded 1573 advancements
+[00:02:21] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.154 ms
+[00:02:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[00:02:21] [Server thread/INFO]: Loading properties
+[00:02:21] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:21] [Server thread/INFO]: Generating keypair
+[00:02:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:21] [Server thread/INFO]: Using epoll channel type
+[00:02:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:02:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:02:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:02:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:02:21] [Server thread/INFO]: Preparing level "world"
+[00:02:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:02:29] [Server thread/INFO]: Time elapsed: 7935 ms
+[00:02:29] [Server thread/INFO]: Done (8.291s)! For help, type "help"
+[00:02:40] [Server thread/INFO]: Cacharro7[/127.176.38.27:39491] logged in with entity id 7 at (-109.9366011833783, 65.0, -369.7937953429675)
+[00:02:40] [Server thread/INFO]: Cacharro7 joined the game
+[00:02:41] [Server thread/INFO]: My_HsSs[/127.58.65.231:40273] logged in with entity id 42 at (431.9003739484514, 118.0, 1295.5580924970627)
+[00:02:41] [Server thread/INFO]: My_HsSs joined the game
+[00:02:43] [Server thread/INFO]: ZyberXMC[/127.100.7.92:56449] logged in with entity id 298 at (-37.23845163997217, 63.0, -369.334764420157)
+[00:02:43] [Server thread/INFO]: ZyberXMC joined the game
+[00:02:47] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:02:49] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames
+[00:02:52] [Server thread/INFO]: [Not Secure] <Cacharro7> destino final ahh situacion
+[00:02:53] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames
+[00:02:55] [Server thread/INFO]: sayis745[/127.87.120.187:36089] logged in with entity id 826 at (-162.27149620948907, 63.0, -336.02648373529036)
+[00:02:55] [Server thread/INFO]: sayis745 joined the game
+[00:03:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> que tanto se perdio xf
+[00:03:08] [Server thread/INFO]: [Not Secure] <My_HsSs> me regreso como 10 minutos
+[00:03:10] [Server thread/INFO]: [Not Secure] <Cacharro7> pues no mucho yo hice pan
+[00:03:11] [Server thread/INFO]: [Not Secure] <My_HsSs> mfff
+[00:03:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> FXF
+[00:03:46] [Server thread/INFO]: [Not Secure] <Cacharro7> destino final ahh
+[00:03:49] [Server thread/INFO]: [Not Secure] <Cacharro7> estabamos muriendo
+[00:03:49] [Server thread/INFO]: [Not Secure] <ZyberXMC> AHA
+[00:04:00] [Server thread/INFO]: [Not Secure] <ZyberXMC> lets gom inng
+[00:04:06] [Server thread/INFO]: [Not Secure] <ZyberXMC> btw do ulike my
+[00:04:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> 3d face
+[00:04:16] [Server thread/INFO]: [Not Secure] <Cacharro7> a
+[00:04:24] [Server thread/INFO]: [Not Secure] <Cacharro7> lo mism oque el cejota
+[00:04:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> aha
+[00:04:52] [Server thread/INFO]: [Not Secure] <Cacharro7> onde estas w
+[00:05:14] [Server thread/INFO]: [Not Secure] <Cacharro7> que pedo
+[00:05:15] [Server thread/INFO]: [Not Secure] <ZyberXMC> follow my balls
+[00:05:20] [Server thread/INFO]: [Not Secure] <Cacharro7> estas antorchas no se borraron XD
+[00:05:24] [Server thread/INFO]: [Not Secure] <Cacharro7> las puse cuando fuimos
+[00:05:38] [Server thread/INFO]: [Not Secure] <ZyberXMC> XD
+[00:05:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> es verdad
+[00:05:50] [Server thread/INFO]: [Not Secure] <ZyberXMC> multiverse
+[00:06:15] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
+[00:06:27] [Server thread/INFO]: [Not Secure] <ZyberXMC> BRUJ
+[00:06:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> a
+[00:06:48] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:06:54] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:07:03] [Server thread/INFO]: [Not Secure] <Cacharro7> cave diver scenario
+[00:07:21] [Server thread/INFO]: [Not Secure] <ZyberXMC> catual mining
+[00:08:47] [Server thread/INFO]: [Not Secure] <Cacharro7> mf
+[00:08:52] [Server thread/INFO]: [Not Secure] <ZyberXMC> bruja71
+[00:08:57] [Server thread/INFO]: [Not Secure] <Cacharro7> si
+[00:09:06] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[00:09:07] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[00:09:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> omg
+[00:09:07] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[00:09:08] [Server thread/INFO]: [Not Secure] <Cacharro7> XDDD
+[00:09:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> plaestina
+[00:10:58] [Server thread/INFO]: [Not Secure] <ZyberXMC> so many bats
+[00:12:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> WER TF ARE TE DIAMODN
+[00:12:40] [Server thread/INFO]: [Not Secure] <Cacharro7> onde estas
+[00:13:11] [Server thread/INFO]: [Not Secure] <ZyberXMC> uuuh
+[00:13:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> hi
+[00:13:44] [Server thread/INFO]: [Not Secure] <Cacharro7> e
+[00:13:58] [Server thread/INFO]: [Not Secure] <Cacharro7> balls
+[00:13:59] [Server thread/INFO]: [Not Secure] <ZyberXMC> no agarres mi basura w
+[00:14:48] [Server thread/INFO]: [Not Secure] <Cacharro7> onde estas ahora
+[00:14:54] [Server thread/INFO]: [Not Secure] <Cacharro7> oh
+[00:14:54] [Server thread/INFO]: [Not Secure] <ZyberXMC> righ behin u
+[00:15:46] [Server thread/INFO]: [Not Secure] <Cacharro7> XDD
+[00:16:04] [Server thread/INFO]: [Not Secure] <ZyberXMC> m
+[00:16:05] [Server thread/INFO]: [Not Secure] <ZyberXMC> f
+[00:16:17] [Server thread/INFO]: [Not Secure] <Cacharro7> jew scenario
+[00:16:24] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:16:27] [Server thread/INFO]: [Not Secure] <ZyberXMC> BLACK
+[00:16:44] [Server thread/INFO]: [Not Secure] <ZyberXMC> Pinche negro ni lo mire xf
+[00:16:45] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:17:35] [Server thread/INFO]: [Not Secure] <Cacharro7> XDDD
+[00:17:36] [Server thread/INFO]: [Not Secure] <ZyberXMC> XDD
+[00:17:42] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[00:17:46] [Server thread/INFO]: [Not Secure] <Cacharro7> GEORGE FLOYD SPOTTED MOB
+[00:18:10] [Server thread/INFO]: [Not Secure] <ZyberXMC> ts looks like a door
+[00:18:16] [Server thread/INFO]: [Not Secure] <Cacharro7> :C
+[00:18:31] [Server thread/INFO]: [Not Secure] <ZyberXMC> trash
+[00:18:52] [Server thread/INFO]: [Not Secure] <Cacharro7> cave diving scenario
+[00:18:55] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[00:19:11] [Server thread/INFO]: [Not Secure] <Cacharro7> WTF
+[00:19:17] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:19:21] [Server thread/INFO]: [Not Secure] <Cacharro7> just like irl
+[00:19:23] [Server thread/INFO]: [Not Secure] <ZyberXMC> fr
+[00:19:46] [Server thread/INFO]: [Not Secure] <Cacharro7> wtf
+[00:20:08] [Server thread/INFO]: [Not Secure] <Cacharro7> mucho hierro
+[00:20:09] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:20:25] [Server thread/INFO]: [Not Secure] <Cacharro7> un stack
+[00:20:57] [Server thread/INFO]: [Not Secure] <ZyberXMC> damn
+[00:21:04] [Server thread/INFO]: [Not Secure] <Cacharro7> DAMN
+[00:21:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> truly
+[00:21:09] [Server thread/INFO]: [Not Secure] <Cacharro7> civilizacion
+[00:21:40] [Server thread/INFO]: [Not Secure] <ZyberXMC> mucha cueva poco diamante
+[00:21:59] [Server thread/INFO]: [Not Secure] <ZyberXMC> mf
+[00:22:04] [Server thread/INFO]: [Not Secure] <Cacharro7> trollin
+[00:22:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> OMG
+[00:22:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:22:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> apoco ya estuvimos aqui
+[00:22:37] [Server thread/INFO]: [Not Secure] <Cacharro7> capaz dimos una vuelta
+[00:22:49] [Server thread/INFO]: [Not Secure] <ZyberXMC> YES
+[00:22:53] [Server thread/INFO]: [Not Secure] <ZyberXMC> 1 DIAON
+[00:22:59] [Server thread/INFO]: [Not Secure] <Cacharro7> profit
+[00:23:09] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya estuvimos aqui xf
+[00:23:11] [Server thread/INFO]: [Not Secure] <Cacharro7> wtf
+[00:23:20] [Server thread/INFO]: [Not Secure] <ZyberXMC> xffffffffffffff
+[00:23:26] [Server thread/INFO]: [Not Secure] <Cacharro7> i mean
+[00:24:10] [Server thread/INFO]: [Not Secure] <ZyberXMC> fucking nigger
+[00:24:10] [Server thread/INFO]: [Not Secure] <Cacharro7> :Tf:
+[00:24:12] [Server thread/INFO]: [Not Secure] <ZyberXMC> es nuestra luz
+[00:24:14] [Server thread/INFO]: [Not Secure] <ZyberXMC> dumbufkc
+[00:24:58] [Server thread/INFO]: [Not Secure] <ZyberXMC> teres more
+[00:25:15] [Server thread/INFO]: [Not Secure] <ZyberXMC> uh oh
+[00:25:27] [Server thread/INFO]: [Not Secure] <Cacharro7> YES
+[00:25:28] [Server thread/INFO]: [Not Secure] <Cacharro7> YES
+[00:25:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> q
+[00:25:36] [Server thread/INFO]: [Not Secure] <Cacharro7> come here nigga
+[00:25:41] [Server thread/INFO]: [Not Secure] <Cacharro7> esto te pasa por ignorar la redstone
+[00:25:47] [Server thread/INFO]: [Not Secure] <Cacharro7> ven w
+[00:25:51] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya voy
+[00:25:56] [Server thread/INFO]: [Not Secure] <ZyberXMC> damn
+[00:26:18] [Server thread/INFO]: [Not Secure] <Cacharro7> :jew:
+[00:26:35] [Server thread/INFO]: My_HsSs has made the advancement [We Need to Go Deeper]
+[00:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[00:26:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:26:46] [Server thread/INFO]: [Not Secure] <sayis745> xff
+[00:26:47] [Server thread/INFO]: [Not Secure] <ZyberXMC> pense que ya se me habia ido el internet xf
+[00:26:54] [Server thread/INFO]: [Not Secure] <ZyberXMC> se me pauso tantito
+[00:26:56] [Server thread/INFO]: [Not Secure] <Cacharro7> a ya
+[00:26:57] [Server thread/INFO]: [Not Secure] <ZyberXMC> pero era el huevon
+[00:27:09] [Server thread/INFO]: [Not Secure] <Cacharro7> pinche cueva infinita
+[00:27:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> aha
+[00:27:40] [Server thread/INFO]: [Not Secure] <ZyberXMC> nothin over hre
+[00:28:00] [Server thread/INFO]: [Not Secure] <ZyberXMC> vaya tormenta
+[00:28:25] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[00:28:29] [Server thread/WARN]: My_HsSs moved wrongly!
+[00:28:47] [Server thread/INFO]: [Not Secure] <Cacharro7> wtf
+[00:29:46] [Server thread/INFO]: [Not Secure] <ZyberXMC> RUN
+[00:30:02] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:30:04] [Server thread/INFO]: [Not Secure] <ZyberXMC> son de las venenosas wei
+[00:30:11] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:30:18] [Server thread/INFO]: [Not Secure] <Cacharro7> las ultima 64 antorchas
+[00:30:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> OGM,
+[00:30:34] [Server thread/INFO]: [Not Secure] <Cacharro7> OH
+[00:30:35] [Server thread/INFO]: sayis745 has made the advancement [What a Deal!]
+[00:30:49] [Server thread/INFO]: [Not Secure] <ZyberXMC> ay
+[00:30:50] [Server thread/INFO]: [Not Secure] <ZyberXMC> yay
+[00:30:57] [Server thread/INFO]: [Not Secure] <ZyberXMC> oh
+[00:30:58] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[00:31:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> 2 spawns
+[00:31:05] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
+[00:31:11] [Server thread/INFO]: [Not Secure] <Cacharro7> al menos esta rodeado de lava
+[00:32:20] [Server thread/INFO]: My_HsSs was doomed to fall by Piglin Brute
+[00:32:23] [Server thread/INFO]: [Not Secure] <ZyberXMC> proteccion contra el fu
+[00:32:25] [Server thread/INFO]: [Not Secure] <ZyberXMC> XF
+[00:32:25] [Server thread/INFO]: [Not Secure] <sayis745> XF
+[00:32:27] [Server thread/INFO]: [Not Secure] <Cacharro7> XDD
+[00:32:43] [Server thread/INFO]: [Not Secure] <sayis745> volaste muy cerca del sol
+[00:32:49] [Server thread/INFO]: [Not Secure] <My_HsSs> ye
+[00:33:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> YES
+[00:33:03] [Server thread/INFO]: [Not Secure] <ZyberXMC> infinidad
+[00:35:05] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[00:35:13] [Server thread/INFO]: [Not Secure] <Cacharro7> pff
+[00:35:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> pta
+[00:35:52] [Server thread/INFO]: [Not Secure] <ZyberXMC> a
+[00:36:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:36:15] [Server thread/INFO]: [Not Secure] <Cacharro7> wtf
+[00:36:36] [Server thread/INFO]: [Not Secure] <ZyberXMC> no sirven las antorchas ahi w
+[00:36:39] [Server thread/INFO]: [Not Secure] <ZyberXMC> es por oleadasw
+[00:36:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[00:36:44] [Server thread/INFO]: [Not Secure] <Cacharro7> XDDD
+[00:37:01] [Server thread/INFO]: [Not Secure] <Cacharro7> xdd
+[00:37:39] [Server thread/INFO]: [Not Secure] <ZyberXMC> que no sriven we
+[00:37:50] [Server thread/INFO]: My_HsSs has made the advancement [A Seedy Place]
+[00:38:17] [Server thread/INFO]: [Not Secure] <ZyberXMC> XDD
+[00:38:21] [Server thread/INFO]: [Not Secure] <ZyberXMC> te quedaste pelon
+[00:38:29] [Server thread/INFO]: [Not Secure] <Cacharro7> xdd
+[00:39:05] [Server thread/INFO]: [Not Secure] <ZyberXMC> chingo de spawners
+[00:39:09] [Server thread/INFO]: [Not Secure] <Cacharro7> ye
+[00:39:17] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:39:26] [Server thread/INFO]: [Not Secure] <sayis745> no los rompan pibes
+[00:39:27] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:39:31] [Server thread/INFO]: [Not Secure] <sayis745> para hacer granjas
+[00:39:36] [Server thread/INFO]: [Not Secure] <sayis745> ojos void
+[00:39:50] [Server thread/INFO]: [Not Secure] <ZyberXMC> si eso es una cosa es que estamos en un uhh
+[00:39:55] [Server thread/INFO]: [Not Secure] <ZyberXMC> tricky tiral
+[00:39:58] [Server thread/INFO]: [Not Secure] <sayis745> oh
+[00:40:58] [Server thread/INFO]: Cacharro7 was slain by Zombie
+[00:41:01] [Server thread/INFO]: [Not Secure] <Cacharro7> MF
+[00:41:03] [Server thread/INFO]: [Not Secure] <ZyberXMC> ZD
+[00:41:03] [Server thread/INFO]: [Not Secure] <sayis745> pfff
+[00:41:04] [Server thread/INFO]: [Not Secure] <Cacharro7> no los traigas a mi
+[00:41:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> CABRON
+[00:41:15] [Server thread/INFO]: [Not Secure] <ZyberXMC> TU ME ESTABAS ENCERRANDO
+[00:41:15] [Server thread/INFO]: [Not Secure] <Cacharro7> DONT YOU DIE ORTHOR
+[00:41:22] [Server thread/INFO]: My_HsSs lost connection: Disconnected
+[00:41:22] [Server thread/INFO]: My_HsSs left the game
+[00:41:22] [Server thread/INFO]: [Not Secure] <Cacharro7> :tF:
+[00:41:24] [Server thread/INFO]: [Not Secure] <ZyberXMC> XD
+[00:41:25] [Server thread/INFO]: [Not Secure] <Cacharro7> xd
+[00:41:26] [Server thread/INFO]: My_HsSs[/127.58.65.231:42923] logged in with entity id 26305 at (837.0198728826897, 72.0, 1599.022618286844)
+[00:41:26] [Server thread/INFO]: My_HsSs joined the game
+[00:41:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> traete comida w
+[00:41:38] [Server thread/INFO]: [Not Secure] <Cacharro7> E
+[00:41:42] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:42:55] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:42:58] [Server thread/INFO]: [Not Secure] <Cacharro7> que mas traigo w
+[00:43:00] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:43:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> nadams w
+[00:43:09] [Server thread/INFO]: [Not Secure] <ZyberXMC> we need a plan
+[00:43:10] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:43:18] [Server thread/INFO]: [Not Secure] <ZyberXMC> btw si sabes llegar? xfff
+[00:43:21] [Server thread/INFO]: [Not Secure] <Cacharro7> hsata donde verga estara sxDD
+[00:43:21] [Server thread/INFO]: [Not Secure] <ZyberXMC> es un laberinto
+[00:43:24] [Server thread/INFO]: [Not Secure] <ZyberXMC> XD
+[00:43:26] [Server thread/INFO]: [Not Secure] <Cacharro7> las bolas will guide me
+[00:43:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> chimon
+[00:43:32] [Server thread/INFO]: [Not Secure] <ZyberXMC> picas hacia bajo
+[00:43:32] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya
+[00:43:37] [Server thread/INFO]: [Not Secure] <Cacharro7> sernd cosrds
+[00:43:46] [Server thread/INFO]: [Not Secure] <ZyberXMC> 8 -23 -220
+[00:43:48] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf casi en el spawn
+[00:43:53] [Server thread/INFO]: [Not Secure] <Cacharro7> tf
+[00:43:57] [Server thread/INFO]: [Not Secure] <ZyberXMC> mas bien el 0,0
+[00:45:33] [Server thread/INFO]: [Not Secure] <ZyberXMC> me voy a comer el ojo de araña si no llegas cabron
+[00:45:40] [Server thread/INFO]: [Not Secure] <sayis745> ccf
+[00:46:23] [Server thread/INFO]: [Not Secure] <Cacharro7> por suerte puse antorchas
+[00:47:10] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:47:29] [Server thread/INFO]: ZyberXMC has made the advancement [Take Aim]
+[00:47:40] [Server thread/INFO]: [Not Secure] <ZyberXMC> sniping is a good job mate
+[00:48:07] [Server thread/INFO]: [Not Secure] <Cacharro7> llegue al bioma
+[00:48:11] [Server thread/INFO]: [Not Secure] <Cacharro7> osea la mamada verde
+[00:48:19] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:48:41] [Server thread/INFO]: [Not Secure] <Cacharro7> cuales coords dijiste
+[00:48:47] [Server thread/INFO]: [Not Secure] <ZyberXMC> 8 -23 -220
+[00:48:52] [Server thread/INFO]: [Not Secure] <ZyberXMC> s
+[00:49:12] [Server thread/INFO]: [Not Secure] <Cacharro7> estoy cerca
+[00:49:17] [Server thread/INFO]: [Not Secure] <Cacharro7> solo debo picar para abajo
+[00:49:49] [Server thread/INFO]: [Not Secure] <Cacharro7> XDDD
+[00:49:53] [Server thread/INFO]: [Not Secure] <Cacharro7> pinches ciegos
+[00:49:57] [Server thread/INFO]: [Not Secure] <Cacharro7> hay diamante aqui w
+[00:50:05] [Server thread/INFO]: [Not Secure] <ZyberXMC> me vale verga w tengo hambre
+[00:50:10] [Server thread/INFO]: [Not Secure] <ZyberXMC> 2 corazones
+[00:50:17] [Server thread/INFO]: [Not Secure] <Cacharro7> fucks thsi shit
+[00:50:19] [Server thread/INFO]: [Not Secure] <ZyberXMC> bueno 1 y medio
+[00:50:20] [Server thread/INFO]: [Not Secure] <Cacharro7> voy a picar para abajo
+[00:50:45] [Server thread/INFO]: [Not Secure] <ZyberXMC> i see a name
+[00:50:54] [Server thread/INFO]: [Not Secure] <Cacharro7> llegue a la mamada de las trials
+[00:51:03] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[00:51:32] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:52:14] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:52:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> hasta donde te estas yendo w
+[00:52:41] [Server thread/INFO]: [Not Secure] <Cacharro7> idk comence a seguir la bola
+[00:52:45] [Server thread/INFO]: [Not Secure] <Cacharro7> por que estamos relativamente cerca
+[00:53:09] [Server thread/INFO]: [Not Secure] <Cacharro7> wtf
+[00:53:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> te tengo que salir a buscar
+[00:53:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames ni siquiera estas en las trials
+[00:53:34] [Server thread/INFO]: [Not Secure] <ZyberXMC> sigues en la mineshat
+[00:53:36] [Server thread/INFO]: [Not Secure] <sayis745> XD
+[00:53:45] [Server thread/INFO]: [Not Secure] <Cacharro7> UHHH
+[00:53:56] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya vi tu nombre
+[00:54:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> NEGRO
+[00:54:09] [Server thread/INFO]: [Not Secure] <Cacharro7> UH
+[00:54:10] [Server thread/INFO]: [Not Secure] <ZyberXMC> que mrda haces xff
+[00:54:16] [Server thread/INFO]: [Not Secure] <Cacharro7> XD
+[00:54:18] [Server thread/INFO]: [Not Secure] <ZyberXMC> giv me food
+[00:54:31] [Server thread/INFO]: [Not Secure] <ZyberXMC> overhere
+[00:54:33] [Server thread/INFO]: [Not Secure] <Cacharro7> wer cosas
+[00:54:34] [Server thread/INFO]: [Not Secure] <ZyberXMC> stupid fuck
+[00:55:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> be careful
+[00:55:01] [Server thread/INFO]: [Not Secure] <Cacharro7> oh
+[00:55:17] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames
+[00:55:20] [Server thread/INFO]: [Not Secure] <ZyberXMC> desaparecieron XDD
+[00:55:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> o si los agarraste?
+[00:55:46] [Server thread/INFO]: [Not Secure] <Cacharro7> donde estan mis cosas
+[00:55:49] [Server thread/INFO]: [Not Secure] <ZyberXMC> XD
+[00:56:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> no podia entrar w xff
+[00:56:11] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya no estan tus cosas w
+[00:56:17] [Server thread/INFO]: [Not Secure] <Cacharro7> :,vvvv
+[00:58:59] [Server thread/INFO]: [Not Secure] <ZyberXMC> bru
+[00:59:03] [Server thread/INFO]: [Not Secure] <Cacharro7> nomas fue para eso
+[00:59:03] [Server thread/INFO]: [Not Secure] <ZyberXMC> tanto esfuerzo para nad
+[00:59:05] [Server thread/INFO]: [Not Secure] <Cacharro7> profit
+[00:59:21] [Server thread/INFO]: [Not Secure] <ZyberXMC> 3 horas de gameplay
+[00:59:33] [Server thread/INFO]: [Not Secure] <ZyberXMC> mejor me void a mi casita
+[00:59:37] [Server thread/INFO]: [Not Secure] <Cacharro7> ae
+[00:59:47] [Server thread/INFO]: [Not Secure] <ZyberXMC> OH
+[01:00:05] [Server thread/INFO]: [Not Secure] <Cacharro7> huevos w
+[01:00:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> round 2
+[01:00:15] [Server thread/INFO]: sayis745 has made the advancement [Safe Haven]
+[01:00:28] [Server thread/INFO]: [Not Secure] <sayis745> tf is this
+[01:01:11] [Server thread/INFO]: [Not Secure] <ZyberXMC> NO MAMES
+[01:01:15] [Server thread/INFO]: [Not Secure] <ZyberXMC> un spawn de zombies
+[01:01:16] [Server thread/INFO]: [Not Secure] <Cacharro7> wq
+[01:01:19] [Server thread/INFO]: [Not Secure] <ZyberXMC> no lo piques w
+[01:01:22] [Server thread/INFO]: [Not Secure] <Cacharro7> ik
+[01:01:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> que raro cf
+[01:01:36] [Server thread/INFO]: [Not Secure] <ZyberXMC> un spawn con el trial metido
+[01:01:47] [Server thread/INFO]: [Not Secure] <Cacharro7> me dio llaves w
+[01:01:50] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[01:01:54] [Server thread/INFO]: [Not Secure] <Cacharro7> ahi
+[01:01:58] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[01:02:00] [Server thread/INFO]: [Not Secure] <ZyberXMC> chamber key
+[01:02:01] [Server thread/INFO]: [Not Secure] <Cacharro7> esas son para las cosas del
+[01:02:06] [Server thread/INFO]: [Not Secure] <Cacharro7> cobre i frogro
+[01:02:11] [Server thread/INFO]: [Not Secure] <ZyberXMC> uh
+[01:02:21] [Server thread/INFO]: [Not Secure] <Cacharro7> para abrir pues
+[01:02:24] [Server thread/INFO]: [Not Secure] <ZyberXMC> yea
+[01:02:26] [Server thread/INFO]: [Not Secure] <Cacharro7> tengo unas 5
+[01:02:28] [Server thread/INFO]: [Not Secure] <ZyberXMC> y obtienes el mazo
+[01:02:31] [Server thread/INFO]: [Not Secure] <ZyberXMC> bueno es
+[01:02:32] [Server thread/INFO]: [Not Secure] <Cacharro7> wtf
+[01:02:34] [Server thread/INFO]: [Not Secure] <ZyberXMC> aleatorio
+[01:02:36] [Server thread/INFO]: [Not Secure] <ZyberXMC> gambling
+[01:02:40] [Server thread/INFO]: [Not Secure] <Cacharro7> LOOTBOXES
+[01:02:45] [Server thread/INFO]: [Not Secure] <ZyberXMC> aha
+[01:02:51] [Server thread/INFO]: [Not Secure] <Cacharro7> TALVEZ AQUI
+[01:02:54] [Server thread/INFO]: Cacharro7 has made the advancement [Under Lock and Key]
+[01:02:58] [Server thread/INFO]: [Not Secure] <ZyberXMC> WTF
+[01:02:58] [Server thread/INFO]: [Not Secure] <Cacharro7> UHHH
+[01:03:03] [Server thread/INFO]: [Not Secure] <Cacharro7> si son lootboxes
+[01:03:10] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[01:03:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> OMG
+[01:03:19] [Server thread/INFO]: [Not Secure] <ZyberXMC> valve shit
+[01:03:19] [Server thread/INFO]: ZyberXMC has made the advancement [Under Lock and Key]
+[01:03:20] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[01:03:24] [Server thread/INFO]: [Not Secure] <ZyberXMC> GOLD GOLD GOLD
+[01:03:33] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[01:03:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> el testamento
+[01:03:43] [Server thread/INFO]: [Not Secure] <Cacharro7> tengo 5
+[01:05:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> how to buy keys notch
+[01:05:12] [Server thread/INFO]: [Not Secure] <Cacharro7> recien veo que me dio 8 bloques de hierro
+[01:05:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[01:05:19] [Server thread/INFO]: [Not Secure] <Cacharro7> so
+[01:05:22] [Server thread/INFO]: [Not Secure] <Cacharro7> en toeria no perdi mucho
+[01:05:25] [Server thread/INFO]: [Not Secure] <Cacharro7> solo mis 6 diamantes
+[01:05:29] [Server thread/INFO]: [Not Secure] <ZyberXMC> bueno te los robaste pero yo te robe un bloque de diamante
+[01:05:34] [Server thread/INFO]: [Not Secure] <ZyberXMC> tamos a mano
+[01:05:51] [Server thread/INFO]: My_HsSs was slain by Zombie
+[01:05:54] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[01:05:56] [Server thread/INFO]: [Not Secure] <Cacharro7> XDD
+[01:05:59] [Server thread/INFO]: [Not Secure] <ZyberXMC> no te sirve la llave w
+[01:06:10] [Server thread/INFO]: [Not Secure] <My_HsSs> este fckin lag
+[01:06:11] [Server thread/INFO]: [Not Secure] <Cacharro7> :,v
+[01:06:18] [Server thread/INFO]: [Not Secure] <ZyberXMC> aver damela :tf:
+[01:06:22] [Server thread/INFO]: [Not Secure] <Cacharro7> pinche tarjeta
+[01:06:33] [Server thread/INFO]: [Not Secure] <My_HsSs> igtg
+[01:06:39] [Server thread/INFO]: [Not Secure] <Cacharro7> cya bligga
+[01:06:42] [Server thread/INFO]: [Not Secure] <ZyberXMC> cy
+[01:06:45] [Server thread/INFO]: [Not Secure] <sayis745> cya
+[01:06:45] [Server thread/INFO]: [Not Secure] <My_HsSs> cya niggers
+[01:06:47] [Server thread/INFO]: My_HsSs lost connection: Disconnected
+[01:06:47] [Server thread/INFO]: My_HsSs left the game
+[01:07:00] [Server thread/INFO]: [Not Secure] <ZyberXMC> y si vamos al
+[01:07:03] [Server thread/INFO]: [Not Secure] <ZyberXMC> a la otra
+[01:07:07] [Server thread/INFO]: [Not Secure] <Cacharro7> avr
+[01:07:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> la que vimos otra vez
+[01:07:16] [Server thread/INFO]: [Not Secure] <ZyberXMC> UUH
+[01:07:31] [Server thread/WARN]: Cacharro7 moved wrongly!
+[01:07:57] [Server thread/INFO]: [Not Secure] <ZyberXMC> nigger
+[01:07:58] [Server thread/INFO]: [Not Secure] <ZyberXMC> man
+[01:08:37] [Server thread/INFO]: [Not Secure] <ZyberXMC> por donde era xf
+[01:08:42] [Server thread/INFO]: [Not Secure] <Cacharro7> diamante
+[01:08:48] [Server thread/INFO]: [Not Secure] <ZyberXMC> pta amdr
+[01:08:53] [Server thread/INFO]: [Not Secure] <Cacharro7> DIAMANTE TROLL
+[01:08:56] [Server thread/INFO]: [Not Secure] <Cacharro7> orthor
+[01:09:01] [Server thread/INFO]: [Not Secure] <Cacharro7> literal lo pique y me cai XDD
+[01:10:24] [Server thread/INFO]: [Not Secure] <ZyberXMC> por aca
+[01:10:31] [Server thread/INFO]: [Not Secure] <ZyberXMC> see i got a good memory
+[01:10:44] [Server thread/INFO]: [Not Secure] <ZyberXMC> lets go gambling
+[01:11:26] [Server thread/INFO]: [Not Secure] <Cacharro7> lets try
+[01:12:00] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames como que 1 solo diamante
+[01:12:04] [Server thread/INFO]: [Not Secure] <Cacharro7> XDD
+[01:12:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> i got no keys left
+[01:12:37] [Server thread/INFO]: [Not Secure] <Cacharro7> onde estas
+[01:12:41] [Server thread/INFO]: [Not Secure] <Cacharro7> aun tengo 4
+[01:12:47] [Server thread/INFO]: [Not Secure] <ZyberXMC> me dio un hacha con
+[01:12:52] [Server thread/INFO]: [Not Secure] <ZyberXMC> irrompibilidad
+[01:13:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> ven negro
+[01:13:02] [Server thread/INFO]: [Not Secure] <ZyberXMC> sube
+[01:13:25] [Server thread/INFO]: [Not Secure] <ZyberXMC> fx
+[01:13:25] [Server thread/INFO]: [Not Secure] <Cacharro7> TRASH
+[01:13:43] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[01:13:44] [Server thread/INFO]: [Not Secure] <Cacharro7> XDD
+[01:14:18] [Server thread/INFO]: [Not Secure] <sayis745> i got
+[01:14:21] [Server thread/INFO]: [Not Secure] <sayis745> 2 sheep
+[01:14:25] [Server thread/INFO]: [Not Secure] <ZyberXMC> omg
+[01:14:38] [Server thread/INFO]: [Not Secure] <sayis745> me fui como 1000 bloques a otro bioma
+[01:14:41] [Server thread/INFO]: [Not Secure] <Cacharro7> OH
+[01:14:51] [Server thread/INFO]: [Not Secure] <sayis745> pero ya las traje a nuestra mini aldea
+[01:14:52] [Server thread/INFO]: [Not Secure] <ZyberXMC> XDF
+[01:14:54] [Server thread/INFO]: [Not Secure] <Cacharro7> XDDD
+[01:14:59] [Server thread/INFO]: [Not Secure] <ZyberXMC> thanks sayis
+[01:15:00] [Server thread/INFO]: [Not Secure] <Cacharro7> omg esclavismo
+[01:15:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> now
+[01:15:05] [Server thread/INFO]: [Not Secure] <Cacharro7> ONE MORE LEFT ORTHOR
+[01:15:08] [Server thread/INFO]: [Not Secure] <ZyberXMC> make them mutlilpe
+[01:15:13] [Server thread/INFO]: [Not Secure] <ZyberXMC> use it
+[01:15:42] [Server thread/INFO]: [Not Secure] <ZyberXMC> XDD
+[01:16:11] [Server thread/INFO]: [Not Secure] <Cacharro7> WER MORE
+[01:16:20] [Server thread/INFO]: [Not Secure] <ZyberXMC> ee
+[01:16:26] [Server thread/INFO]: [Not Secure] <Cacharro7> oh
+[01:16:31] [Server thread/INFO]: [Not Secure] <ZyberXMC> wtf
+[01:16:34] [Server thread/INFO]: [Not Secure] <Cacharro7> esto es para otro tipo de llave i guess
+[01:16:35] [Server thread/INFO]: [Not Secure] <ZyberXMC> este se ve especial
+[01:16:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> alomejor
+[01:16:43] [Server thread/INFO]: [Not Secure] <ZyberXMC> habia un crafteo
+[01:16:46] [Server thread/INFO]: [Not Secure] <ZyberXMC> con las llaves
+[01:16:48] [Server thread/INFO]: [Not Secure] <ZyberXMC> :tf:
+[01:16:52] [Server thread/INFO]: [Not Secure] <Cacharro7> puta madre y por que no hicimos eso
+[01:16:54] [Server thread/INFO]: [Not Secure] <ZyberXMC> XD
+[01:16:55] [Server thread/INFO]: [Not Secure] <Cacharro7> xdd
+[01:16:55] [Server thread/INFO]: [Not Secure] <sayis745> con el mal presagio
+[01:17:01] [Server thread/INFO]: [Not Secure] <ZyberXMC> no mames
+[01:17:02] [Server thread/INFO]: [Not Secure] <Cacharro7> YA VI Como estos 3 veces
+[01:17:03] [Server thread/INFO]: [Not Secure] <ZyberXMC> sayis hdp
+[01:17:03] [Server thread/INFO]: [Not Secure] <sayis745> pueden tener una llave de nivel 2
+[01:17:04] [Server thread/INFO]: [Not Secure] <Cacharro7> XDDD
+[01:17:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> sayis hdp
+[01:17:10] [Server thread/INFO]: [Not Secure] <ZyberXMC> porque no dices cabron
+[01:17:15] [Server thread/INFO]: [Not Secure] <Cacharro7> cabron nos dieron puro escudo
+[01:17:17] [Server thread/INFO]: [Not Secure] <Cacharro7> XDD
+[01:17:22] [Server thread/INFO]: [Not Secure] <sayis745> imean
+[01:17:31] [Server thread/INFO]: [Not Secure] <sayis745> si con el nivelbasico los papearon
+[01:17:41] [Server thread/INFO]: [Not Secure] <ZyberXMC> not me
+[01:17:42] [Server thread/INFO]: [Not Secure] <Cacharro7> bueno al menos tenemos una
+[01:17:50] [Server thread/INFO]: [Not Secure] <Cacharro7> como se hace el voidcrafteo
+[01:18:05] [Server thread/INFO]: [Not Secure] <sayis745> no hay
+[01:18:07] [Server thread/INFO]: [Not Secure] <sayis745> cf
+[01:18:07] [Server thread/INFO]: [Not Secure] <ZyberXMC> hay que subir w
+[01:18:22] [Server thread/INFO]: [Not Secure] <Cacharro7> oh
+[01:18:24] [Server thread/INFO]: [Not Secure] <Cacharro7> bueno
+[01:18:25] [Server thread/INFO]: [Not Secure] <ZyberXMC> por aca
+[01:18:37] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya estuve en estos juegos
+[01:18:50] [Server thread/INFO]: [Not Secure] <Cacharro7> deja vu
+[01:19:48] [Server thread/INFO]: [Not Secure] <sayis745> se aplanan terrenos
+[01:19:48] [Server thread/INFO]: [Not Secure] <Cacharro7> yay
+[01:19:54] [Server thread/INFO]: [Not Secure] <ZyberXMC> xf
+[01:19:55] [Server thread/INFO]: [Not Secure] <Cacharro7> vamos donde chayis
+[01:20:40] [Server thread/INFO]: [Not Secure] <ZyberXMC> good moring sayi
+[01:20:41] [Server thread/INFO]: [Not Secure] <sayis745> hi
+[01:20:51] [Server thread/INFO]: [Not Secure] <Cacharro7> casa
+[01:20:56] [Server thread/INFO]: [Not Secure] <Cacharro7> que haces chayis
+[01:21:05] [Server thread/INFO]: [Not Secure] <ZyberXMC> ya dijo w
+[01:21:07] [Server thread/INFO]: [Not Secure] <sayis745> aplano el terreno
+[01:21:12] [Server thread/INFO]: [Not Secure] <sayis745> para hacer lo de las ovejas
+[01:21:16] [Server thread/INFO]: [Not Secure] <Cacharro7> OH
+[01:22:06] [Server thread/INFO]: [Not Secure] <ZyberXMC> im going to my home
+[01:22:10] [Server thread/INFO]: [Not Secure] <Cacharro7> cya bligga
