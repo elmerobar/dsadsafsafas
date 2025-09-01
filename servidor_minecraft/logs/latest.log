@@ -352,3 +352,14 @@
 [03:31:18] [Server thread/INFO]: ZyberXMC lost connection: Disconnected
 [03:31:18] [Server thread/INFO]: ZyberXMC left the game
 [03:32:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:51:22] [Server thread/INFO]: Stopping the server
+[03:51:22] [Server thread/INFO]: Stopping server
+[03:51:22] [Server thread/INFO]: Saving players
+[03:51:22] [Server thread/INFO]: Saving worlds
+[03:51:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[03:51:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[03:51:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[03:51:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:51:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:51:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:51:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
