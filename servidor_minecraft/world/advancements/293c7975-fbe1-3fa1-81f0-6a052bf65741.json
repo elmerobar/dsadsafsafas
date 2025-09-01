@@ -2777,15 +2777,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-31 23:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
     "criteria": {
       "has_wildflowers": "2025-08-31 23:47:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_pointed_dripstone": "2025-08-31 23:43:15 +0000"
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-01 01:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-09-01 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-01 01:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-01 01:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-01 01:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-01 01:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-01 01:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-09-01 01:25:05 +0000"
     },
     "done": true
   },
