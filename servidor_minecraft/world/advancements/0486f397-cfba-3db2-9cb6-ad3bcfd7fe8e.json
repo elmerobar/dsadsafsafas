@@ -2787,9 +2787,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-01 02:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/yellow_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-01 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-01 02:41:27 +0000"
     },
     "done": true
   },
@@ -2820,6 +2832,12 @@
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-01 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-01 02:42:37 +0000"
     },
     "done": true
   },
@@ -2979,6 +2997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-09-01 02:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-01 01:59:58 +0000"
@@ -3006,6 +3030,12 @@
   "minecraft:recipes/combat/blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-09-01 01:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-01 02:41:27 +0000"
     },
     "done": true
   },
