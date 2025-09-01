@@ -2835,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-09-01 02:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-01 02:13:56 +0000"
@@ -2982,6 +2988,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-01 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-09-01 02:28:29 +0000"
     },
     "done": true
   },
